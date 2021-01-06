@@ -5,6 +5,11 @@
 * meta: Updating to use American spelling [Gareth Davies]
 * meta: Formatting for external docs [Gareth Davies]
 
+# v1.0.12
+## (2021-01-06)
+
+* Use SDK functions for managing Supervisor version on a device [Miguel Casqueira]
+
 # v1.0.11
 ## (2020-12-15)
 
